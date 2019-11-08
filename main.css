@@ -1,0 +1,136 @@
+@charset "utf-8";
+h1 {
+    color: #389C9C;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-variant: normal;
+    font-weight: normal;
+}
+p {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+a {
+    color: #736D6D;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p {
+
+
+
+
+
+}
+ul li a {
+    list-style-type: none;
+    background-color: #4EA6A7;
+}
+p a table {
+    background-color: #50A8A9;
+    display: block;
+    margin-left: 315px;
+    font-size: 36px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.about p {
+}
+home {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: medium;
+}
+.nav {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 16px;
+}
+
+
+
+
+p {
+
+
+}
+
+
+body p {
+}
+#pic img {
+    top: auto;
+    bottom: auto;
+    /* [disabled]float: left; */
+    padding-left: 100px;
+    padding-right: 100px;
+}
+p {
+    float: none;
+    width: 1024px;
+}
+.text {
+}
+.text {
+    margin-right: 1000px;
+
+
+}
+.overview {
+    margin-right: 1000px;
+    padding-right: 50px;
+}
+body p {
+}
+.about {
+    margin-right: 1000px;
+}
+.banner {
+    margin-left: 400px;
+
+}
+.about p {
+}
+body ul {
+}
+ul li a {
+    list-style-type: none;
+    color: #000000;
+}
+#container {
+    width: 1024px;
+    background-color: #929292;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+#heading {
+    width: 1024px;
+    height: 200px;
+    background-color: #B019C4;
+}
+#nav {
+    width: 1024px;
+    height: 50px;
+    background-color: #DBC219;
+}
+#text {
+    width: 700px;
+    height: 400px;
+    background-color: #00FF64;
+    float: left;
+}
+#image {
+    width: 324px;
+    height: 400px;
+    background-color: #FF8600;
+    float: right;
+}
+#footer {
+    width: 1024px;
+    height: 200px;
+    background-color: #FF0004;
+    clear: both;
+}
